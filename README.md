@@ -2,7 +2,7 @@
 
 Dashboard interativo desenvolvido para o desafio do curso, a partir de uma base de 100 vendas de Porsche nos EUA.
 
-🔗 **Acesse:** https://viniciusandrade91.github.io/dashboard_vendas_porsche-3.html
+🔗 **Acesse:** https://viniciusandrade91-bit.github.io/dashboard-vendas-porsche-3.html
 
 ## Perguntas respondidas
 - Qual modelo tem a maior venda efetivada?
